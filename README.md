@@ -14,7 +14,7 @@
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Harun's github stats](https://github-readme-stats.vercel.app/api?username=harunuyan&show_icons=true&theme=radical&include_all_commits=true)<br/>
-| ![Harun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harunuyan&theme=radical&layout=compact) |
+| ![Harun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harunuyan&theme=radical&layout=compact)
 # ✍️ Random Dev Quote<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)<br/>
 [![](https://visitcount.itsvg.in/api?id=harunuyan&icon=5&color=3)](https://visitcount.itsvg.in)<br/>
