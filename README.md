@@ -21,5 +21,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harunuyan"></img><br/>
 # ✍️ Random Dev Quote<br/>
 <br>![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)<br>
-<a href="https://info.flagcounter.com/dScP"><img src="https://s01.flagcounter.com/map/dScP/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
-[![](https://visitcount.itsvg.in/api?id=harunuyan&icon=5&color=3)](https://visitcount.itsvg.in)<br/>
+<a href="https://info.flagcounter.com/UOif"><img src="https://s11.flagcounter.com/map/UOif/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
