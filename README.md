@@ -18,4 +18,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harunuyan"></img><br/>
 # ✍️ Random Dev Quote<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)<br/>
+![](https://count.getloli.com/get/@harunuyan.github.readme)</br>
 [![](https://visitcount.itsvg.in/api?id=harunuyan&icon=5&color=3)](https://visitcount.itsvg.in)<br/>
