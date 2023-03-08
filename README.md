@@ -15,7 +15,16 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Harun's github stats](https://github-readme-stats.vercel.app/api?username=harunuyan&show_icons=true&theme=radical&include_all_commits=true)<br/>
 | ![Harun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harunuyan&theme=radical&layout=compact)<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harunuyan"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harunuyan"></img><br/>
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake -->
+![](https://github.com/harunuyan/harunuyan/blob/output/github-contribution-grid-snake.svg)
+
+   skyline 
+<a href="https://skyline.github.com/harunuyan/2023"><img src="./assets/2023.gif" alt="" width="auto" height="auto" /></a>
+
 # ✍️ Random Dev Quote<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)<br/>
 [![](https://visitcount.itsvg.in/api?id=harunuyan&icon=5&color=3)](https://visitcount.itsvg.in)<br/>
