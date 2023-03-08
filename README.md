@@ -20,5 +20,6 @@
 | ![Harun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harunuyan&theme=radical&layout=compact)<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harunuyan"></img><br/>
 # ✍️ Random Dev Quote<br/>
-<br>![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)<br/>
+<br>![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)<br>
+<br>
 [![](https://visitcount.itsvg.in/api?id=harunuyan&icon=5&color=3)](https://visitcount.itsvg.in)<br/>
