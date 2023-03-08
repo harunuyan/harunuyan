@@ -1,5 +1,6 @@
 # Welcome to my profile!
 🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Java & Kotlin , Android App Development<br> 📫 How to reach me  <a href="mailto:harunuyan6@gmail.com" target="_blank<"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" width="25px" height="18px"/></a><br>
+![](https://count.getloli.com/get/@harunuyan.github.readme)</br>
 # 🌐 Socials<br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harunuyan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harun-uyan-849862227/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harunuyan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harunuyan_)<br/>
 # 💻 Tech Stack<br/>
@@ -18,5 +19,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harunuyan"></img><br/>
 # ✍️ Random Dev Quote<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)<br/>
-![](https://count.getloli.com/get/@harunuyan.github.readme)</br>
 [![](https://visitcount.itsvg.in/api?id=harunuyan&icon=5&color=3)](https://visitcount.itsvg.in)<br/>
