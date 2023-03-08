@@ -11,6 +11,13 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=harunuyan&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harunuyan&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harunuyan&theme=swift&hide_border=false&include_all_commits=true&Cache-Control:no-cache&count_private=true&layout=compact)<br/>
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harunuyan&theme=github-compact)](https://github.com/harunuyan/github-readme-activity-graph)
+
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=harunuyan&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harunuyan&theme=radical&layout=compact) |
 # ✍️ Random Dev Quote<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)<br/>
 [![](https://visitcount.itsvg.in/api?id=harunuyan&icon=5&color=3)](https://visitcount.itsvg.in)<br/>
