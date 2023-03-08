@@ -7,17 +7,14 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br/>
-# 📊 GitHub Stats<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=harunuyan&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harunuyan&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harunuyan&theme=swift&hide_border=false&include_all_commits=true&Cache-Control:no-cache&count_private=true&layout=compact)<br/>
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harunuyan&theme=github-compact)](https://github.com/harunuyan/github-readme-activity-graph)
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=harunuyan&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harunuyan&theme=radical&layout=compact) |
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=harunuyan&show_icons=true&theme=radical&include_all_commits=true)<br/>
+| ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harunuyan&theme=radical&layout=compact) |
 # ✍️ Random Dev Quote<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)<br/>
 [![](https://visitcount.itsvg.in/api?id=harunuyan&icon=5&color=3)](https://visitcount.itsvg.in)<br/>
