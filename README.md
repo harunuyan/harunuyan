@@ -10,13 +10,13 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br/>
-<!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harunuyan&theme=github-compact)](https://github.com/harunuyan/github-readme-activity-graph)
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Harun's github stats](https://github-readme-stats.vercel.app/api?username=harunuyan&show_icons=true&theme=radical&include_all_commits=true)<br/>
+# GitHub stats graph
+| ![](https://github-readme-stats-sigma-five.vercel.app/api?username=harunuyan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 | ![Harun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harunuyan&theme=radical&layout=compact)<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harunuyan"></img><br/>
 # ✍️ Random Dev Quote<br/>
