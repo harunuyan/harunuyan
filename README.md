@@ -18,9 +18,7 @@
 ![MacOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ### 📈 GitHub Activity Graph:
 [![Harun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harunuyan&theme=github-compact)](https://github.com/harunuyan/github-readme-activity-graph)
-
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+<br>
 # GitHub stats graph
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=harunuyan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Harun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harunuyan&theme=radical&layout=compact)<br/>
