@@ -1,5 +1,5 @@
 # Welcome to my profile!
-🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Java & Kotlin , Android App Development<br> 📫 How to reach me  <a href="mailto:harunuyan6@gmail.com" target="_blank<"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" width="25px" height="18px"/></a><br>
+🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Java & Kotlin , Android App Development<br> 
 <br>
 ![](https://count.getloli.com/get/@harunuyan.github.readme)</br>
 <br>
@@ -17,8 +17,6 @@
 ![Andoid](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-### 📈 GitHub Activity Graph:
-[![Harun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harunuyan&theme=github-compact)](https://github.com/harunuyan/github-readme-activity-graph)
 <br>
 # GitHub stats graph
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=harunuyan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
