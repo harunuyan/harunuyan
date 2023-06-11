@@ -1,4 +1,4 @@
-# Welcome to my profile!
+# Welcome to my repository!
 
 🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Java & Kotlin , Android App Development<br> 
 <br>
