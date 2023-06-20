@@ -28,9 +28,16 @@ If you are interested in working together or have any suggestions, feel free to 
 
 # GitHub stats graph<br/>
 
-![Harun's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harunuyan&theme=radical&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunuyan&theme=radical&layout=compact" alt="Top Languages" width="50%" />
+</p>
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=harunuyan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harunuyan"></img>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harunuyan&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="50%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harunuyan" alt="GitHub Streak" width="50%" />
+</p>
 
 </div>
