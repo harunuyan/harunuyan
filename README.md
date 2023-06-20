@@ -19,14 +19,13 @@ If you are interested in working together or have any suggestions, feel free to 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harunuyan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harunuyan)
 
 # 💻 Tech Stack<br/>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-![Andoid](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)<br/>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,autocad,figma,firebase,git,gradle,java,kotlin,materialui,postman,figma)](https://skillicons.dev)
 
 # GitHub stats graph<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harunuyan&theme=radical" alt="GitHub Streak" width="50%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunuyan&theme=radical&layout=compact" alt="Top Languages" width="50%" />
@@ -34,10 +33,6 @@ If you are interested in working together or have any suggestions, feel free to 
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harunuyan&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="50%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harunuyan" alt="GitHub Streak" width="50%" />
 </p>
 
 </div>
